@@ -5,12 +5,7 @@ https://github.com/RutujaChauhan/Power-BI-Reports/assets/95647723/85cc9d79-f0ca-
 
 ![image](https://github.com/RutujaChauhan/Power-BI-Reports/assets/95647723/b7a6bd0f-ca69-4dc3-b494-09fbf6a00435)
 
-
-
-
-
-
-
+## Dynamic Slicer in Power BI
 Uploading Untitled video - Made with Clipchamp (3).mp4…
 
 
